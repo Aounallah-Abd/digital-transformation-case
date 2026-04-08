@@ -12,3 +12,5 @@ Transformation digitale d’une entreprise (zéro papier)
 - Gain de productivité
 - Réduction des coûts
 - Traçabilité améliorée
+![Status](https://img.shields.io/badge/status-active-success)
+![Audit](https://img.shields.io/badge/focus-IT_Audit-blue)
